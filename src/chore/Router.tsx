@@ -110,8 +110,8 @@ const Home = () => {
       <p>
         Les liens te permettent de te repérer dans les exercises.
         <br />
-        Si tu es perdu ou tu as des problèmes, rejoins le discord et n'hésite pas à
-        demander de l'aide.
+        Si tu es perdu ou tu as des problèmes, rejoins le discord et n'hésite
+        pas à demander de l'aide.
       </p>
     </div>
   );
